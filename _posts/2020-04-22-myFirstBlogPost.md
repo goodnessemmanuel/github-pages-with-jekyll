@@ -1,2 +1,4 @@
-# Hello Blog
-this is my first github blog post
+---
+title: "Infobasenaija Blog"
+date: 2020-04-22
+---
